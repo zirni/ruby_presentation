@@ -1,32 +1,20 @@
 <!SLIDE title-slide>
 .notes first slide
 
-# First Slide #
+# History #
+
+* Yukihiro Matsumoto
+* 1995
+* Ruby License or BSD License
 
 <!SLIDE bullets incremental transition=fade>
-.notes something something something something something something something something something something something something something something something dark side
 
-# Second Slide #
+# Basics #
 
-* something
-* something else
-* a third thing
-* a fourth thing
-* a fifth thing
+basics
 
 <!SLIDE bullets>
-# Third Slide
-
-* Sometimes bullet items
-  * Have sublists
-  * And some sublist items
-    * Have some of their own
-    * And so on
-* But top-level "bullet items" have no bullets
-  * isn't that odd?
-
-Also, sometimes you just want to have plain text sitting in the middle
-of the screen. The quick brown fox jumps over the lazy dog.
+# Arrays
 
 !SLIDE center transition=scrollUp
 .notes another dark side

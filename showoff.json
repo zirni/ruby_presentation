@@ -7,9 +7,6 @@
   },
   "pause_msg": "Paused !!!",
   "sections": [
-    {"section":"one"},
-    {"section":"two"},
-    {"section":"three"},
-    {"section":"four"}
+    {"section":"one"}
   ]
 }
